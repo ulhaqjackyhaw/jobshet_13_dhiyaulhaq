@@ -1,0 +1,9 @@
+setup.py
+PRAKTEK.egg-info/PKG-INFO
+PRAKTEK.egg-info/SOURCES.txt
+PRAKTEK.egg-info/dependency_links.txt
+PRAKTEK.egg-info/top_level.txt
+praktikum_minggu_14/__init__.py
+praktikum_minggu_14/guess_name.py
+praktikum_minggu_14/tempCodeRunnerFile.py
+praktikum_minggu_14/weight_conversation.py

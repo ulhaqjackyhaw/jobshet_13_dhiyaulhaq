@@ -1,0 +1,9 @@
+setup.py
+minggu_14/__init__.py
+minggu_14/guess_name.py
+minggu_14/tempCodeRunnerFile.py
+minggu_14/weight_conversation.py
+minggu_14.egg-info/PKG-INFO
+minggu_14.egg-info/SOURCES.txt
+minggu_14.egg-info/dependency_links.txt
+minggu_14.egg-info/top_level.txt
